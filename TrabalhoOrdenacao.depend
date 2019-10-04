@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1570228453 source:d:\users\prisc\libraries\documentos\ifsc\ads\iii\estrutura\trabalhoordenacao\bubblesort.c
+	<stdio.h>
+
+1570225737 source:d:\users\prisc\libraries\documentos\ifsc\ads\iii\estrutura\trabalhoordenacao\insertionsort.c
+	<math.h>
+	<stdio.h>
+
+1570225605 source:d:\users\prisc\libraries\documentos\ifsc\ads\iii\estrutura\trabalhoordenacao\mergesort.c
+	<stdlib.h>
+	<stdio.h>
+
+1570225611 source:d:\users\prisc\libraries\documentos\ifsc\ads\iii\estrutura\trabalhoordenacao\quicksort.c
+	<stdio.h>
+	<stdlib.h>
+
+1570229256 source:d:\users\prisc\libraries\documentos\ifsc\ads\iii\estrutura\trabalhoordenacao\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
